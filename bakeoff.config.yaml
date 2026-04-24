@@ -1,0 +1,21 @@
+# Bakeoff backend configuration.
+#
+# Options:
+#   backend:
+#     "api"        -> Uses Anthropic Python SDK. Requires ANTHROPIC_API_KEY
+#                     env var. Supports prompt caching (cheaper). Default.
+#     "claude-cli" -> Shells out to `claude -p ...`. Uses whatever auth the
+#                     local CLI is configured with (Max subscription / OAuth /
+#                     apiKeyHelper). No ANTHROPIC_API_KEY needed. Slower per
+#                     call (CLI spawn overhead) and burns Max quota.
+#
+#   model: any model name the chosen backend accepts.
+#
+#   sleep_between_calls: seconds between API calls to stay under rate limits.
+#     Safe defaults: 0.5 for api backend, 1.0+ for claude-cli.
+#
+# CLI flags (--backend, --model, --sleep-between-calls) override this file.
+
+backend: claude-cli
+model: claude-sonnet-4-6
+sleep_between_calls: 1.0

@@ -1,0 +1,1 @@
+/home/lhum/.claude/plans/floating-zooming-sphinx.md

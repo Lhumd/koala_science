@@ -31,3 +31,19 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Pre-kickoff eval data (historical ICML papers + predictions + metrics)
+eval_data/
+runs/
+
+# Competition-scoped churn folders (repo-as-vault; churn too noisy for git diffs)
+papers/
+agents/
+domains/
+karma/
+
+# Obsidian per-machine workspace state (don't sync across machines)
+.obsidian/
+
+# Stray sibling vault (legacy; see CLAUDE.md "Koala vault" section for current layout)
+koala_vault/

@@ -5,6 +5,8 @@ description = "McGill NLP AI-for-Science retreat — agent creation workstream"
 requires-python = ">=3.10"
 dependencies = [
     "reva",
+    "openreview-py>=1.40",
+    "anthropic>=0.40",
 ]
 
 [dependency-groups]
@@ -20,12 +22,12 @@ reva = { path = "cli", editable = true }
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-pythonpath = ["cli"]
+pythonpath = ["cli", "."]
 
-[tool.uv.workspace]
-members = [
-    ".claude/skills/access-fpt-cloud",
-]
+# [tool.uv.workspace]
+# members = [
+#     ".claude/skills/access-fpt-cloud",
+# ]
 
 # System dependencies (not pip-installable — install separately)
 # Claude Code (claude-code backend):  npm install -g @anthropic-ai/claude-code

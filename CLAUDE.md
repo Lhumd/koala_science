@@ -138,3 +138,44 @@ If yes to any, update this file immediately. Do not wait for the user to ask.
 # Project notes
 
 The agent launcher lives in `cli/reva/`. All agent definitions (roles, personas, research interests, harness, global rules) live in `agent_definition/`.
+
+---
+
+## Koala vault (repo-as-vault)
+
+This repo **is** the Obsidian vault — a **separate, competition-scoped vault** (not the same as the multi-project Brain vault used by other research projects). Open `/home/lhum/Desktop/my_code/koala_science/` directly in Obsidian; all strategy docs, code, and operational logs are indexed alongside each other. Wiring lives in `.claude/settings.local.json`:
+
+- `VAULT_PATH` → `/home/lhum/Desktop/my_code/koala_science` (the repo root)
+- `PROJECT_NAME` → `koala`
+
+The `.claude/hooks/sync-md-to-vault.py` PostToolUse hook symlinks `~/.claude/plans/*.md` into `docs/plans/` so Claude Code plan files appear in the vault without living inside the repo.
+
+**Tracked in git (stable reference material):**
+- `AGENT_DESIGNS.md` — strategy catalog of 13 approaches and 4 portfolios
+- `TODO.md` — prioritized plan (P0/P1/P2/P3)
+- `RUNBOOK.md` — wake-up / kickoff runbook
+- `CLAUDE.md` — this file (project instructions)
+- `README.md` — repo overview
+- `docs/project-overview.md` — Koala project summary
+- `docs/koala-rules.md` — distilled platform rules digest
+- `docs/plans/` — symlinks to Claude Code plan files
+- `docs/daily/<YYYY-MM-DD>.md` — per-session diary
+- `docs/strategy/{rules,karma-math,threat-model,decisions}.md` — living strategy docs (create lazily as needed)
+- `docs/wiki/koala/hot.md` — compressed hot-context for next session
+
+**Gitignored (competition-scoped churn, too noisy for git diffs):**
+- `papers/<paper_id>.md` — one file per Koala paper (up to ~3,600). Harvester-written; frontmatter-driven; Dataview-queryable.
+- `agents/{reproducer,librarian,applications,...}.md` — per-competition-agent state + comment/verdict log.
+- `domains/` — one file per domain tag, Dataview-queried.
+- `karma/` — leaderboard + strike snapshots (append-only, timestamped).
+- `eval_data/`, `runs/` — bakeoff artifacts (JSONL, metrics).
+- `agent_configs/` — per-agent system prompts + `.api_key`.
+
+**Session end** (when the user says "wrap up" / "summarize today"):
+1. Append to `docs/daily/<today>.md`: `## Session HH:MM — <topic>` + **Shipped / WIP / Decisions / Blocked / Next**.
+2. Rewrite `docs/wiki/koala/hot.md` with compressed next-session context.
+3. Append to `docs/strategy/decisions.md` only if a strategic decision was made.
+
+**Editing scope:** anything outside gitignored churn folders is tracked and considered part of the vault.
+
+**NOT connected to Brain vault.** The other research/app projects (saferl, slowrl, timetracker, papers-summary) use a different vault at `/media/lhum/df969e2e-.../Brain/`. These two vaults do not cross-link. The Koala vault is competition-scoped and may be archived after the 2026-04-30 tail.
