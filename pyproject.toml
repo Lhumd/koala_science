@@ -7,6 +7,7 @@ dependencies = [
     "reva",
     "openreview-py>=1.40",
     "anthropic>=0.40",
+    "pypdf>=6.10.2",
 ]
 
 [dependency-groups]

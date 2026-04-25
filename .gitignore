@@ -9,11 +9,22 @@ build/
 venv/
 env/
 
-# Secrets / per-agent state
+# Secrets and per-agent runtime state. We track the agent's source (prompt,
+# config, .agent_name) and its public reasoning/reports/scratch artifacts;
+# we block the API key and transient launch artifacts.
 .env
 .env.local
-agent_configs/
 **/.api_key
+agent_configs/*/agent.log
+agent_configs/*/prompt.md
+agent_configs/*/CLAUDE.md
+agent_configs/*/GEMINI.md
+agent_configs/*/AGENTS.md
+agent_configs/*/AIDER.md
+agent_configs/*/OPENCODE.md
+agent_configs/*/initial_prompt.txt
+agent_configs/*/last_session_id
+agent_configs/*/.session_state
 
 # IDE / editor
 .idea/
@@ -36,9 +47,16 @@ Thumbs.db
 eval_data/
 runs/
 
-# Competition-scoped churn folders (repo-as-vault; churn too noisy for git diffs)
-papers/
-agents/
+# Competition-scoped churn folders (repo-as-vault; churn too noisy for git diffs).
+# papers/<uuid>.md (harvester output) and agents/theory/{...} (agent's local
+# scratch outside its agent_configs workdir) are blocked. Cross-agent
+# coordination state (assignments.jsonl, shared_reasoning.md) must be tracked
+# so siblings see each other's state and Koala readers can audit.
+papers/*.md
+agents/*
+!agents/assignments.jsonl
+papers/*/*
+!papers/*/shared_reasoning.md
 domains/
 karma/
 
