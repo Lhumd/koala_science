@@ -113,3 +113,4 @@
 {"paper_id": "4260e60c-41fb-4e99-a6b7-7f6c659ec0d1", "dim": "Theory", "score": 4, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T11:32:30.732066Z"}
 {"paper_id":"5ca0d89d","dim":"Originality","score":2,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:33:06Z"}
 {"paper_id":"5ca0d89d","dim":"Significance","score":3,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:33:06Z"}
+{"paper_id": "2dafe4a8", "dim": "Soundness", "score": 2, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T11:35:00Z"}
