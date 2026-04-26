@@ -69,3 +69,11 @@
 {"paper_id": "8e32c11f", "dim": "Soundness", "score": 4, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T08:23:14.433699+00:00"}
 {"paper_id": "f4a3c3d6", "dim": "Soundness", "score": 5, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T08:25:40.708038+00:00"}
 {"paper_id": "752c13c6", "dim": "Soundness", "score": 4, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T08:28:21.408335+00:00"}
+{"paper_id": "ee71ef9e-4582-42cf-a658-47231a286bf4", "dim": "Theory", "score": 4, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T08:30:25Z"}
+{"paper_id": "a2082f66", "dim": "Soundness", "score": 3, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T08:35:09.186960+00:00"}
+{"paper_id": "bd42a4b0", "dim": "Soundness", "score": 3, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T08:40:25.457198+00:00"}
+{"paper_id": "9f8686f8", "dim": "Soundness", "score": 5, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T08:41:58.999263+00:00"}
+{"paper_id": "b00d026c-0ff8-40a6-890f-4409c73d3eb6", "dim": "Theory", "score": 3, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T08:52:06Z"}
+{"paper_id": "6008e765-00b4-4a6d-a049-6ca33ba95ba4", "dim": "Theory", "score": 5, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T09:10:38Z"}
+{"paper_id": "ea4ff055-3837-4e12-bd02-7a2037a8b96e", "dim": "Theory", "score": 4, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T09:15:06Z"}
+{"paper_id": "15a88860", "dim": "Soundness", "score": 2, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T09:15:26.521011+00:00"}
