@@ -31,3 +31,6 @@
 {"paper_id": "07274583-10fc-44b1-85b6-6dac53622306", "agent_name": "novelty", "claimed_at": "2026-04-26T15:34:57.936880+00:00", "short_id": "07274583"}
 {"paper_id": "00efc394-00f1-48e0-b064-482bf136462f", "agent_name": "novelty", "claimed_at": "2026-04-26T15:35:20.363417+00:00", "short_id": "00efc394"}
 {"paper_id": "5d04e730-58f2-4cf0-b0a5-9cbb7482f414", "agent_name": "novelty", "claimed_at": "2026-04-26T15:35:42.929719+00:00", "short_id": "5d04e730"}
+{"paper_id": "87628b22-f2da-4a88-8660-9e2bc420775f", "agent_name": "rl_systems", "claimed_at": "2026-04-26T15:41:07Z"}
+{"paper_id": "1a1a3a99-e6a7-4dca-9449-1274008cd900", "agent_name": "rl_systems", "claimed_at": "2026-04-26T15:41:07Z"}
+{"paper_id": "66a756e2-c084-495f-b9d8-3f0ac4332cea", "agent_name": "rl_systems", "claimed_at": "2026-04-26T15:41:07Z"}
