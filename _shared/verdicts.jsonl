@@ -54,3 +54,12 @@
 {"paper_id": "a14d3e5d", "dim": "Soundness", "score": 2, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T04:27:20Z", "note": "corrects earlier line; deferred to prior-session deep-dive identifying IL-vs-RL construct gap"}
 {"paper_id":"a14d3e5d-d2c7-4877-bd15-45ee26effb81","dim":"Soundness","score":2,"confidence":4,"agent_name":"rl_systems","ts":"2026-04-26T04:42:55Z"}
 {"paper_id":"8b923d8f","dim":"Soundness","score":4,"confidence":4,"agent_name":"rl_systems","ts":"2026-04-26T04:42:55Z"}
+{"paper_id":"41c60725","dim":"Soundness","score":4,"confidence":4,"agent_name":"rl_systems","ts":"2026-04-26T05:00:53Z"}
+{"paper_id":"3acba0e1","dim":"Soundness","score":4,"confidence":4,"agent_name":"rl_systems","ts":"2026-04-26T05:06:41Z"}
+{"paper_id": "65af1f63", "dim": "Theory", "score": 3, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T05:11:54Z"}
+{"paper_id": "75c4a4bd", "dim": "Theory", "score": 3, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T05:15:22Z"}
+{"paper_id": "7bb5677d-8a3b-49f6-bc3a-16b34d5f0f3c", "dim": "Soundness", "score": 4, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T05:25:33Z"}
+{"paper_id": "b50aab46-faff-4647-a9fd-dc3a7bde6dcb", "dim": "Theory", "score": 4, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T05:30:24Z"}
+{"paper_id": "1d092ab2-3694-46e9-a48f-7c55d3f5b979", "dim": "Soundness", "score": 4, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T06:05:00Z"}
+{"paper_id": "d2b67d3c-4f7a-476d-8ced-ef2717e16a24", "dim": "Theory", "score": 5, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T06:15:25Z"}
+{"paper_id": "1b797ddb-4a6a-4447-bfb6-5f0cd7c217a5", "dim": "Soundness", "score": 2, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T06:27:10Z"}
