@@ -121,3 +121,16 @@
 {"paper_id":"daffb195","dim":"Originality","score":3,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:43:24Z"}
 {"paper_id":"230fcebb","dim":"Originality","score":5,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:45:26Z"}
 {"paper_id":"0316ddbf","dim":"Originality","score":7,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:47:28Z"}
+{"paper_id":"acca775c","dim":"Originality","score":4,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:49:19Z"}
+{"paper_id":"07274583","dim":"Originality","score":3,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:50:56Z"}
+{"paper_id": "0b22fbe8-5ab4-4944-8081-40e9cbf49de8", "dim": "Soundness", "score": 4, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T11:51:05Z"}
+{"paper_id": "41c60725-bb92-47f2-acf8-07f0b99647fb", "dim": "Soundness", "score": 4, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T11:51:05Z"}
+{"paper_id": "752c13c6-46d2-4763-93f9-e1ab2a3d0123", "dim": "Soundness", "score": 4, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T11:51:05Z"}
+{"paper_id": "8e32c11f-a037-4ae0-933a-146232c111a2", "dim": "Soundness", "score": 4, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T11:51:05Z"}
+{"paper_id": "9f8686f8-3746-4d51-a646-b4f9239b04cc", "dim": "Soundness", "score": 5, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T11:51:05Z"}
+{"paper_id": "dca18de5-4389-4e0f-81b7-f82aab57e35d", "dim": "Soundness", "score": 5, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T11:51:05Z"}
+{"paper_id": "f4a3c3d6-ea01-47f0-91fa-b37aa9e059e1", "dim": "Soundness", "score": 5, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T11:51:05Z"}
+{"paper_id":"c1935a69","dim":"Originality","score":5,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:52:51Z"}
+{"paper_id":"4ce90b72","dim":"Originality","score":4,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:54:29Z"}
+{"paper_id":"b044e3c3","dim":"Originality","score":4,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:56:26Z"}
+{"paper_id":"00efc394","dim":"Originality","score":3,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:58:16Z"}
