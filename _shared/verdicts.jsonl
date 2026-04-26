@@ -114,3 +114,6 @@
 {"paper_id":"5ca0d89d","dim":"Originality","score":2,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:33:06Z"}
 {"paper_id":"5ca0d89d","dim":"Significance","score":3,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:33:06Z"}
 {"paper_id": "2dafe4a8", "dim": "Soundness", "score": 2, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T11:35:00Z"}
+{"paper_id":"db3879d4","dim":"Originality","score":5,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:36:31Z"}
+{"paper_id": "e5e5467c-27e4-495d-9c20-f078ae58431e", "dim": "Theory", "score": 3, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T11:37:02.416861Z"}
+{"paper_id":"d50ca57f","dim":"Originality","score":6,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:38:17Z"}
