@@ -134,3 +134,33 @@
 {"paper_id":"4ce90b72","dim":"Originality","score":4,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:54:29Z"}
 {"paper_id":"b044e3c3","dim":"Originality","score":4,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:56:26Z"}
 {"paper_id":"00efc394","dim":"Originality","score":3,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T11:58:16Z"}
+{"paper_id": "7c20f6d8-8c96-476b-bfae-a08fd8fc2d71", "dim": "Soundness", "score": 3, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T12:02:25Z"}
+{"paper_id": "bd4a5ae7-732b-4a30-a8d1-7fa97791d118", "dim": "Soundness", "score": 4, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T12:05:56Z"}
+{"paper_id": "885ec51c-f18f-45f5-afd4-d9a6a9129126", "dim": "Soundness", "score": 5, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T12:07:41Z"}
+{"paper_id": "a4001e85-7e0e-4ee3-98d7-f234c7aeaae5", "dim": "Theory", "score": 4, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T12:11:43Z"}
+{"paper_id": "5ca0d89d-536f-49da-a3c7-249969911434", "dim": "Theory", "score": 2, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T12:16:38Z"}
+{"paper_id": "e593c28f-2dab-4ac5-a866-5cb9fb95433d", "dim": "Soundness", "score": 4, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T12:30:35Z"}
+{"paper_id": "b8458ab2-853b-4461-8cab-550e8a52b6d2", "dim": "Theory", "score": 6, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T13:32:18Z"}
+{"paper_id": "d2d6a850-3168-43fb-b267-dcb30000ec9a", "dim": "Theory", "score": 7, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T13:36:59Z"}
+{"paper_id": "97e8942a", "dim": "Theory", "score": 7, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T13:53:17.009389Z"}
+{"paper_id": "7920483a", "dim": "Theory", "score": 5, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T14:15:04Z"}
+{"paper_id": "60741fe8-e5a8-471c-88b0-5448b8dd620c", "dim": "Theory", "score": 5, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T14:34:54.058592Z"}
+{"paper_id": "59386b0e-204c-4c09-986a-109be4967508", "dim": "Theory", "score": 6, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T14:38:01.045675Z"}
+{"paper_id": "5c5508af-25ee-4319-9a93-522ef57d7f87", "dim": "Theory", "score": 2, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T14:52:37Z"}
+{"paper_id":"5d04e730","dim":"Originality","score":3,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T15:05:00Z"}
+{"paper_id": "5c5508af", "dim": "Soundness", "score": 2, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T15:05:52Z"}
+{"paper_id": "b8458ab2", "dim": "Soundness", "score": 2, "confidence": 5, "agent_name": "rl_systems", "ts": "2026-04-26T15:06:15Z"}
+{"paper_id":"c809b37d","dim":"Originality","score":3,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T15:15:00Z"}
+{"paper_id":"062f9b19","dim":"Originality","score":3,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T15:25:00Z"}
+{"paper_id":"0bb9fe86","dim":"Originality","score":6,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T15:35:00Z"}
+{"paper_id": "63a8bb26-d942-4c07-80ec-1c3f0cddf797", "dim": "Theory", "score": 2, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T15:13:50Z"}
+{"paper_id":"1d092ab2","dim":"Originality","score":3,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T15:42:00Z"}
+{"paper_id": "acca775c-254b-410c-9252-c37ed998431f", "dim": "Theory", "score": 6, "confidence": 4, "agent_name": "theory", "ts": "2026-04-26T15:17:20Z"}
+{"paper_id":"470d3040","dim":"Originality","score":3,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T15:50:00Z"}
+{"paper_id":"7bb5677d","dim":"Originality","score":3,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T15:55:00Z"}
+{"paper_id":"60121fd8","dim":"Originality","score":6,"confidence":4,"agent_name":"novelty","ts":"2026-04-26T16:00:00Z"}
+{"paper_id": "e34116bc-5832-4121-8043-e6c3db1a8167", "dim": "Soundness", "score": 2, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T15:29:02Z"}
+{"paper_id": "cdf27fa7-5108-4a4d-abfc-46f554fb3f52", "dim": "Soundness", "score": 2, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T15:29:02Z"}
+{"paper_id": "19d39ade-4e50-45d4-9f8c-5fe2de51f458", "dim": "Soundness", "score": 2, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T15:29:02Z"}
+{"paper_id": "97e8942a-7437-4034-b592-f37236365587", "dim": "Soundness", "score": 4, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T15:29:02Z"}
+{"paper_id": "d2d6a850-3168-43fb-b267-dcb30000ec9a", "dim": "Soundness", "score": 4, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-26T15:29:02Z"}
