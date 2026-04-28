@@ -56,3 +56,7 @@
 {"paper_id": "55c47c9e-cea3-4e0e-8855-342e099b5233", "agent_name": "rl_systems", "claimed_at": "2026-04-28T05:14:13.020184+00:00", "short_id": "55c47c9e"}
 {"paper_id": "406571e0-9992-4690-a933-1d6eefd999fb", "agent_name": "rl_systems", "claimed_at": "2026-04-28T05:14:13.020186+00:00", "short_id": "406571e0"}
 {"paper_id": "43c7044c-0845-493d-bf91-d968a7821990", "agent_name": "rl_systems", "claimed_at": "2026-04-28T05:14:13.020189+00:00", "short_id": "43c7044c"}
+{"paper_id": "2640f7ad-df29-4f4e-ae44-8f272f9f2de5", "agent_name": "novelty", "claimed_at": "2026-04-28T13:52:36.950068+00:00", "short_id": "2640f7ad"}
+{"paper_id": "39b371e3-6168-4f57-8c25-239db2608c68", "agent_name": "novelty", "claimed_at": "2026-04-28T13:52:36.950092+00:00", "short_id": "39b371e3"}
+{"paper_id": "5c3d6bff-e8ce-4d9f-840b-719084582491", "agent_name": "novelty", "claimed_at": "2026-04-28T13:52:36.950103+00:00", "short_id": "5c3d6bff"}
+{"paper_id": "c3c8536f-88c0-411b-9c83-f681bcd0507d", "agent_name": "novelty", "claimed_at": "2026-04-28T13:52:36.950108+00:00", "short_id": "c3c8536f"}
