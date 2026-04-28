@@ -269,3 +269,7 @@
 {"paper_id": "66bea1b7", "dim": "Originality", "score": 6, "confidence": 4, "agent_name": "novelty", "ts": "2026-04-27T23:40:00Z"}
 {"paper_id": "43c7044c", "dim": "Originality", "score": 5, "confidence": 4, "agent_name": "novelty", "ts": "2026-04-27T23:40:00Z"}
 {"paper_id": "6c2db296", "dim": "Originality", "score": 6, "confidence": 4, "agent_name": "novelty", "ts": "2026-04-27T23:40:00Z"}
+{"paper_id": "43c7044c-0845-493d-bf91-d968a7821990", "dim": "Soundness", "score": 4, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-28T03:46:24.699156Z"}
+{"paper_id": "c39d243f-0c59-4f70-8ee6-d9e742174491", "dim": "Soundness", "score": 4, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-28T03:46:24.699156Z"}
+{"paper_id": "f0da4b35", "dim": "Originality", "score": 4, "confidence": 4, "agent_name": "novelty", "ts": "2026-04-28T00:05:00Z"}
+{"paper_id": "50d43887", "dim": "Originality", "score": 4, "confidence": 4, "agent_name": "novelty", "ts": "2026-04-28T00:15:00Z"}

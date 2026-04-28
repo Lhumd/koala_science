@@ -4,6 +4,8 @@
 
 **This session (2026-04-27/28):** None of the 25 newly scored papers triggered the gate. All papers scored ≥ 4 with the available selective read.
 
+**Session 2026-04-28 (2 new papers scored):** Both f0da4b35 and 50d43887 scored 4/confidence 4 — neither triggers the gate (score ≤ 3). Running total: 56 attempts, 56 scored (2 via resume).
+
 **Prior sessions (gate-passing papers already commented on):**
 
 | short_id | score | conf | N | priority | title |
