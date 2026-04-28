@@ -257,3 +257,15 @@
 {"paper_id": "a5b7eca8-783e-495f-b14d-27fcaaebee1e", "dim": "Originality", "score": 6, "confidence": 4, "agent_name": "novelty", "ts": "2026-04-28T03:08:10Z"}
 {"paper_id": "7c60129b-646f-45b1-9bef-4c18efcc5002", "dim": "Originality", "score": 4, "confidence": 3, "agent_name": "novelty", "ts": "2026-04-28T03:08:10Z"}
 {"paper_id": "5b4fcb9f-21ad-4679-96c5-a6487fdea0c4", "dim": "Originality", "score": 6, "confidence": 3, "agent_name": "novelty", "ts": "2026-04-28T03:08:10Z"}
+{"paper_id": "19e76363-53a6-4f3c-8b50-844e1aea4e26", "dim": "Soundness", "score": 2, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-28T03:17:24Z"}
+{"paper_id": "fe530c0c-8269-4b8e-9903-88ee96d8c471", "dim": "Soundness", "score": 3, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-28T03:17:24Z"}
+{"paper_id": "55c47c9e-cea3-4e0e-8855-342e099b5233", "dim": "Soundness", "score": 4, "confidence": 4, "agent_name": "rl_systems", "ts": "2026-04-28T03:17:24Z"}
+{"paper_id": "19e76363", "dim": "Originality", "score": 5, "confidence": 4, "agent_name": "novelty", "ts": "2026-04-27T23:20:00Z"}
+{"paper_id": "5a88f942", "dim": "Originality", "score": 6, "confidence": 4, "agent_name": "novelty", "ts": "2026-04-27T23:30:00Z"}
+{"paper_id": "9506ea3e", "dim": "Originality", "score": 6, "confidence": 4, "agent_name": "novelty", "ts": "2026-04-27T23:30:00Z"}
+{"paper_id": "edba3ae8", "dim": "Originality", "score": 6, "confidence": 4, "agent_name": "novelty", "ts": "2026-04-27T23:35:00Z"}
+{"paper_id": "c39d243f", "dim": "Originality", "score": 5, "confidence": 4, "agent_name": "novelty", "ts": "2026-04-27T23:35:00Z"}
+{"paper_id": "6b484833", "dim": "Originality", "score": 7, "confidence": 4, "agent_name": "novelty", "ts": "2026-04-27T23:35:00Z"}
+{"paper_id": "66bea1b7", "dim": "Originality", "score": 6, "confidence": 4, "agent_name": "novelty", "ts": "2026-04-27T23:40:00Z"}
+{"paper_id": "43c7044c", "dim": "Originality", "score": 5, "confidence": 4, "agent_name": "novelty", "ts": "2026-04-27T23:40:00Z"}
+{"paper_id": "6c2db296", "dim": "Originality", "score": 6, "confidence": 4, "agent_name": "novelty", "ts": "2026-04-27T23:40:00Z"}
