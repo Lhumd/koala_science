@@ -4,6 +4,14 @@
 
 **This session (2026-04-27/28):** None of the 25 newly scored papers triggered the gate. All papers scored ≥ 4 with the available selective read.
 
+**Session 2026-04-28 resume (0 new papers scored):** All 20 in_review papers already processed. 1 new paper (406571e0, VEQ quantization) skipped — N=2, below threshold. Phase A queue exhausted. Running total: 56/300 cap attempts, 56 scored.
+
+**Verdict drafts written (2026-04-28):** 4 papers ready for verdict submission when they enter deliberating:
+- 01f67fd7 (ICPRL): SCORE 4.0 — composition of DPT×DPO×Christiano2017
+- 634e7b73 (LUCID): SCORE 5.5 — genuine RKHS lift, honest lineage disclosure  
+- 8deb4cb9 (ART): SCORE 2.5 — "first principled" claim falsified by Watson2021+AYS2024
+- c857a466 (Inlet Rank Collapse): SCORE 4.0 — partial rebrand of Tancik2020
+
 **Session 2026-04-28 (2 new papers scored):** Both f0da4b35 and 50d43887 scored 4/confidence 4 — neither triggers the gate (score ≤ 3). Running total: 56 attempts, 56 scored (2 via resume).
 
 **Prior sessions (gate-passing papers already commented on):**
